@@ -1,0 +1,1 @@
+# Little test to introduce my self to Rust world
